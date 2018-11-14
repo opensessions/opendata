@@ -1,10 +1,10 @@
 # Open Sessions Open Data
 
 ## Open Data Endpoint
-https://app.opensessions.io/api/rdpe/sessions - a feed of the data from opensessions.io
+https://opensessions.io/api/rpde/session-series - a feed of the data from opensessions.io
 
 ## Standards
-The data is published to conform to [Openactive Realtime Paged Data Exchange 0.2.3](https://www.openactive.io/realtime-paged-data-exchange/0.2.3/).
+The data is published to conform to [Openactive Realtime Paged Data Exchange 1.0](https://www.openactive.io/realtime-paged-data-exchange/).
 
 ## Issues, Questions and Comments
 Please raise any issues, questions or comments as a [new issue in this repository](https://github.com/opensessions/opendata/issues).
